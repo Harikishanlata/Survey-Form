@@ -1,0 +1,76 @@
+body{
+    background-color:gray;
+
+  }
+  
+  #title{
+    text-align: center;
+    color: white;
+  }
+  #description{
+    text-align: center;
+    color: white;
+  }
+  #survey-form{
+    font-family: monospace;
+    border: 2px solid black;
+     border-radius: 10px;
+     font-size: 20px;
+     color: white;
+     text-align: left;
+     margin-top: 20px;
+     margin-bottom: 0px;
+     margin-left: 200px;
+     margin-right: 200px;
+     background-color: rgb(37, 37, 115);
+  }
+  #form-content{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  #name{
+  
+  }
+  #email{
+   
+  }
+  #number{
+   
+  }
+  #name-label{
+    font-size: 20px;
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+  }
+  #email-label{
+    font-size: 20px;
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+  }
+  #number-label{
+    font-size: 20px;
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+  }
+  #current-role{
+    font-size: 20px;
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+  }
+  #dropdown{
+    
+  }
+  #submit{
+    background-color: green;
+    font-size: larger;
+    color: white;
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  
